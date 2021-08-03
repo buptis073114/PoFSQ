@@ -55,11 +55,11 @@ verifierProofPhase.Verify(node,filename,identity,readbitlen,ch)
 
 ## Example of program running:
 
-![test](https://github.com/buptis073114/VoFSQ/blob/master/img/run.png)
+![test](https://github.com/buptis073114/PoFSQ/blob/master/img/run.png)
 
-![test](https://github.com/buptis073114/VoFSQ/blob/master/img/generateBlockFiles.png)
+![test](https://github.com/buptis073114/PoFSQ/blob/master/img/generateBlockFiles.png)
 
-![test](https://github.com/buptis073114/VoFSQ/blob/master/img/verify.png)
+![test](https://github.com/buptis073114/PoFSQ/blob/master/img/verify.png)
 
 # Contract:
 sushuai@iie.ac.cn
